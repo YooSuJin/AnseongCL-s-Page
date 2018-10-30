@@ -42,14 +42,14 @@
 <p style="margin-top:15px;" >
 <hr style="border:dotted 3px pink;">
 <p style="margin-top:15px;" >
-<img src="udumari_1.png" width=80px;>
+<img src="https://github.com/YooSuJin/AnseongCL-s-Page/blob/master/udumari_1.png?raw=true" width=80px;>
 <h3>학익진의 우두머리 소개</h3>
 <p style="margin-top:15px;" >
 <hr style="border:dotted 3px pink;">
 <p style="margin-top:30px;" >
 슬하에 <strike> 똥쟁이</strike> <strong>털쟁이</strong> 두마리와 <br>입에 털 마를날 없는 옥탑 칩거생활중
 <br><br>
-<img src="https://github.com/YooSuJin/AnseongCL-s-Page/blob/master/cat250x250.png?raw=true.png"width=250px;><br>
+<img src="https://github.com/YooSuJin/AnseongCL-s-Page/blob/master/cat250x250.png?raw=true"width=250px;><br>
 <i>"뭘보슈"</i><br> △<strike>똥쟁이들</strike> <strong>사랑스런 털쟁이들</strong> <br>
 <br>
 안성 연예인 시절(?) 존경하던 채린언니를 본받고싶던 맴에 <br>자칭 <strong><u>안성씨엘</u></strong>으로 호를 명명함
