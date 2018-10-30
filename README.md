@@ -1,2 +1,62 @@
-# AnseongCL-s-Page
-생활코딩과 함께하는 안성씨엘림의 고군분투 나홀로 페이지 만들어보기
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+
+  <title>AnseongCL's Page - Welcome</title>
+  <style type="text/css">
+  #a{width:300px;height:800px;background-color:pink;float:left;}
+  #b{width:1100px;height:800px;background-color:gray;float:center;}
+</style>
+
+<div style="text-align:center">
+ <p style="margin-top:50px;" >
+<h1>AnseongCL's Page</h1>
+ <p style="margin-top:50px;" >
+</div>
+ </head>
+ <body>
+ <font face="나눔고딕">
+ <div id="a">
+
+ <hr style="border:dotted 3px gray;">
+ <p style="margin-top:15px;" >
+ <h2>Intro</h2>
+생활코딩과 함께허는 <b>안성씨엘림의 고군분투 나홀로 페이지</b> 맨들어보기
+  <p style="margin-top:43px;" >
+ <hr style="border:dotted 3px gray;">
+ <p style="margin-top:20px;" >
+<h3>Category</h3>
+ <ol>
+ <li>Photo</li>
+ <li>Movie</li>
+ <li>Portfolio</li>
+ </ol>
+</div>
+
+<div id="b" style="text-align:center">
+<p style="margin-top:15px;" >
+<hr style="border:dotted 3px pink;">
+<p style="margin-top:15px;" >
+<img src="udumari_1.png" width=80px;>
+<h3>학익진의 우두머리 소개</h3>
+<p style="margin-top:15px;" >
+<hr style="border:dotted 3px pink;">
+<p style="margin-top:30px;" >
+슬하에 <strike> 똥쟁이</strike> <strong>털쟁이</strong> 두마리와 <br>입에 털 마를날 없는 옥탑 칩거생활중
+<br><br>
+<img src="cat250x250.png"width=250px;><br>
+<i>"뭘보슈"</i><br> △<strike>똥쟁이들</strike> <strong>사랑스런 털쟁이들</strong> <br>
+<br>
+안성 연예인 시절(?) 존경하던 채린언니를 본받고싶던 맴에 <br>자칭 <strong><u>안성씨엘</u></strong>으로 호를 명명함
+<br><br>
+취미는 누워있기고 특기는 맥주빨리마시기
+<br>
+춤바람 불었던 과거를 청산 후 <br>중2병시절 소망을 현실화하며 <br>현재 밴드 <u>BlackSoda</u>에서 건반 더듬기를 시전중.
+<br>
+일주일에 한번은 댄스댄스 욕구를 해소하고자 힙합 클래스 수강중.
+</div>
